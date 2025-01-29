@@ -2,12 +2,14 @@
 /**
  * Plugin Name:       WPAppsDev - CF7 Form Submission Limit
  * Description:       Contact Form 7 form submission limit control plugin.
- * Version:           2.4.0
+ * Version:           2.4.1
  * Author:            Saiful Islam Ananda
- * Author URI:        https://saifulananda.me/
- * License:           GNU General Public License v2 or later
+ * Author URI:        https://siananda.me/
+ * License:           GPL v2 or later
  * Text Domain:       wpappsdev-submission-limit-cf7
  * Domain Path:       /languages
+ *
+ * @package WPAppsDev\CF7SL
  */
 
 // don't call the file directly
@@ -28,7 +30,7 @@ final class WPAppsDev_CF7_Limit {
 	 *
 	 * @var string
 	 */
-	public $version = '2.4.0';
+	public $version = '2.4.1';
 
 	/**
 	 * Constructor for the WPAppsDev_CF7_Limit class.

@@ -3,7 +3,7 @@
         'name' => 'siananda/wpappsdev-submission-limit-cf7',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'cb9c73d9e2997723df5b8af67c6ff998f0007641',
+        'reference' => 'e6dd8c22d19e326b9d75f53f673e2ffda0b464a3',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'appsero/client' => array(
             'pretty_version' => 'dev-develop',
             'version' => 'dev-develop',
-            'reference' => 'e62563b26f6b5a65556f929578b313d7652eb59d',
+            'reference' => 'aef4cf138ab4f348cee4e2f20f7d3cd815db0877',
             'type' => 'library',
             'install_path' => __DIR__ . '/../appsero/client',
             'aliases' => array(
@@ -24,7 +24,7 @@
         'siananda/wpappsdev-submission-limit-cf7' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'cb9c73d9e2997723df5b8af67c6ff998f0007641',
+            'reference' => 'e6dd8c22d19e326b9d75f53f673e2ffda0b464a3',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

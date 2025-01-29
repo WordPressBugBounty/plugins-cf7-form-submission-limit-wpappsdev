@@ -1,14 +1,14 @@
 === WPAppsDev - CF7 Form Submission Limit ===
 Contributors:      saifulananda
-Plugin Name:       WPAppsDev - CF7 Form Submission Limit
-Tags:              Contact Form 7, CF7, Form, submission limit
-Author URI:        https://saifulananda.me/
+Plugin Name:       WPAppsDev - Contact Form 7 Form Submission Limit
+Tags:              Contact Form 7, CF7 submission limit, Form limit, submission limit
+Author URI:        https://siananda.me/
 Author:            Saiful Islam Ananda
-Requires at least: 5.0
-Tested up to:      6.3.1
-Version:           2.4.0
-Stable tag: 	   trunk
-Requires PHP:      7.2
+Requires at least: 6.0
+Tested up to:      6.7.1
+Version:           2.4.1
+Stable tag: 	   2.4.1
+Requires PHP:      7.4
 License: 		   GPLv2 or later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -70,6 +70,10 @@ No plugins are needed except Contact Form 7.
 6. CF7 user base limitation 2
 
 == Changelog ==
+
+= 2.4.1 =
+* Updated: Appsero client library files.
+* Updated: WordPress latest version 6.7.1 compatibility.
 
 = 2.4.0 =
 * Updated: Localization POT file.
